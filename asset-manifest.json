@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Klokking-2026-Registration-Beta/static/css/main.da9b6643.css",
+    "main.js": "/Klokking-2026-Registration-Beta/static/js/main.690cfa11.js",
+    "static/js/977.716cf263.chunk.js": "/Klokking-2026-Registration-Beta/static/js/977.716cf263.chunk.js",
+    "static/js/455.e3ede2d1.chunk.js": "/Klokking-2026-Registration-Beta/static/js/455.e3ede2d1.chunk.js",
+    "static/js/453.665695d5.chunk.js": "/Klokking-2026-Registration-Beta/static/js/453.665695d5.chunk.js",
+    "static/media/space-grotesk.ttf": "/Klokking-2026-Registration-Beta/static/media/space-grotesk.f0f1fce4a59e46198487.ttf",
+    "static/media/HelpImageBoatID.png": "/Klokking-2026-Registration-Beta/static/media/HelpImageBoatID.ae00b48c9fea0b65c15e.png",
+    "static/media/klokking_bg_gradient.svg": "/Klokking-2026-Registration-Beta/static/media/klokking_bg_gradient.791e4ed8e825d2c26ea7.svg",
+    "index.html": "/Klokking-2026-Registration-Beta/index.html",
+    "main.da9b6643.css.map": "/Klokking-2026-Registration-Beta/static/css/main.da9b6643.css.map",
+    "main.690cfa11.js.map": "/Klokking-2026-Registration-Beta/static/js/main.690cfa11.js.map",
+    "977.716cf263.chunk.js.map": "/Klokking-2026-Registration-Beta/static/js/977.716cf263.chunk.js.map",
+    "455.e3ede2d1.chunk.js.map": "/Klokking-2026-Registration-Beta/static/js/455.e3ede2d1.chunk.js.map",
+    "453.665695d5.chunk.js.map": "/Klokking-2026-Registration-Beta/static/js/453.665695d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da9b6643.css",
+    "static/js/main.690cfa11.js"
+  ]
+}
